@@ -1,6 +1,6 @@
 # Laraman
 
-A fork of the original repo by (RL-Studio)[https://github.com/RL-Studio/]. I am currently maintaining until they wish to pick up the project again.
+A fork of the original repo by [RL-Studio](https://github.com/RL-Studio/). I am currently maintaining until they wish to pick up the project again.
 
 Have you ever been building a huge API and you're sitting there with Postman to quickly look at your requests? It's tedious, right? So much copy-pasting routes and keeping track of them. Maybe at one point you started making some Postman collections? What if there was a better way, an easier way? There is. Laraman allows you to export all the routes that are registered in your application to a json file that can be imported into Postman.
 
